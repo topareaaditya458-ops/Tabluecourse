@@ -75,7 +75,7 @@ City-wise Order Volume
 
 Customer Preferences across Cuisines
 
-Distribution of Time Taken to Order
+
 
 🛠️ Technologies Used
 
